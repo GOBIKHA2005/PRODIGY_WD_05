@@ -1,4 +1,4 @@
-# PRODIGY_WD_05
+# WEATHER APP
 
 Weather_App
 
